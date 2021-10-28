@@ -1,6 +1,6 @@
 ### Jarilton Junior (Jamal)
 
-Desenvolvedor Front - End
+Analista e Desenvolvedor de Sistemas
 
 
 
