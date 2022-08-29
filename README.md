@@ -24,3 +24,4 @@ Analista e Desenvolvedor de Sistemas
  
 <div> 
   <a href="https://www.linkedin.com/in/jarilton-junior-jamal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
